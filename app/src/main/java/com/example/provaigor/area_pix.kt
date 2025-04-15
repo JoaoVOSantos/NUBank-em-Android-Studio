@@ -12,5 +12,5 @@ class area_pix : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_area_pix)
 
-
+    }
 }

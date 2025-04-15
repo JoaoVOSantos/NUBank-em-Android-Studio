@@ -12,6 +12,7 @@ Este projeto tem como objetivo praticar conceitos de:
 - 🎨 Design semelhante ao app original
 - 🧭 Navegação entre telas
 - 📲 Uso de componentes visuais nativos
+- 📲 ultilizar o conteúdo aprendido em aula
 
 ---
 
