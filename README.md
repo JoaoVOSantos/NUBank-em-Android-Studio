@@ -16,14 +16,25 @@ Este projeto tem como objetivo praticar conceitos de:
 
 ---
 
-## 🔗 Links Importantes
+## 🖼️ Telas do Projeto
 
-- 📘 [Documentação do Projeto (PDF)](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/P1.pdf)  
-- 🖼️ [Tela Inicial](..images/tela_inicial.png)  
-- 🖼️ [Tela do Cartão](../images/tela_cartao.png)  
-- 🖼️ [Tela de Pagamentos](../images/tela_pagamentos.png)
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20inicial.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20area%20pix.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20valor%20transferencia.png" width="200"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20confirmacao%20pix.png" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20principal.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20menu%20opcoes.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20perfil%20usuario.png" width="200"/>
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -41,4 +52,4 @@ Sinta-se livre para abrir issues, sugerir melhorias ou enviar pull requests! Tod
 
 ## 📬 Contato
 
-Feito com ❤️ por [João Vitor](https://github.com/JoaoVOSantos)  
+Feito nas aulas de Desenvolvimento Mobile por [João Vitor](https://github.com/JoaoVOSantos)  
