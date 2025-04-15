@@ -27,13 +27,13 @@ Este projeto tem como objetivo praticar conceitos de:
 <p align="center">
   <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png" width="200"/>
   <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png" width="200"/>
-  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20confirmacao%20pix.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20como%20gostaria%20de%20transferir.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20principal.png" width="200"/>
-  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20menu%20opcoes.png" width="200"/>
-  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20perfil%20usuario.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20revise%20transferencia.png" width="200"/>
+  <img src="" width="200"/>
+  <img src="" width="200"/>
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
