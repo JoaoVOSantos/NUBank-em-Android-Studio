@@ -18,17 +18,23 @@ Este projeto tem como objetivo praticar conceitos de:
 
 ## 🖼️ Telas do Projeto
 
-| Tela Inicial | Área Pix | Valor da Transferência |
-|--------------|----------|-------------------------|
-| ![Tela Inicial](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20inicial.png) | ![Área Pix](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20area%20pix.png) | ![Valor da Transferência](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20valor%20transferencia.png) |
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20inicial.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20area%20pix.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20valor%20transferencia.png" width="200"/>
+</p>
 
-| Contatos para Transferir | Transferindo... | Confirmação Pix |
-|--------------------------|-----------------|------------------|
-| ![Contatos](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png) | ![Transferindo](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png) | ![Confirmação Pix](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20confirmacao%20pix.png) |
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20confirmacao%20pix.png" width="200"/>
+</p>
 
-| Tela Principal | Menu Opções | Perfil do Usuário |
-|----------------|-------------|--------------------|
-| ![Principal](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20principal.png) | ![Menu](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20menu%20opcoes.png) | ![Perfil](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20perfil%20usuario.png) |
+<p align="center">
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20principal.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20menu%20opcoes.png" width="200"/>
+  <img src="https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20perfil%20usuario.png" width="200"/>
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
