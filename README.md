@@ -1,2 +1,43 @@
-# Projeto App NuBank
-## Link <link src="P1.pdf">
+# 💳 Projeto NUBank em Android Studio
+
+Bem-vindo ao repositório do projeto **NUBank em Android Studio**! Este projeto é uma simulação da interface do aplicativo do NUBank, desenvolvido para fins educacionais e práticos no uso do Android Studio com Java/Kotlin.
+
+---
+
+## 📄 Sobre o Projeto
+
+Este projeto tem como objetivo praticar conceitos de:
+
+- 🧱 Layouts no Android Studio
+- 🎨 Design semelhante ao app original
+- 🧭 Navegação entre telas
+- 📲 Uso de componentes visuais nativos
+
+---
+
+## 🔗 Links Importantes
+
+- 📘 [Documentação do Projeto (PDF)](../main/DocumentacaoProjeto.pdf)  
+- 🖼️ [Tela Inicial](../main/images/tela_inicial.png)  
+- 🖼️ [Tela do Cartão](../main/images/tela_cartao.png)  
+- 🖼️ [Tela de Pagamentos](../main/images/tela_pagamentos.png)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Android Studio 🛠️
+- Java/Kotlin ☕
+- XML para layouts 🧩
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se livre para abrir issues, sugerir melhorias ou enviar pull requests! Toda ajuda é bem-vinda. 😊
+
+---
+
+## 📬 Contato
+
+Feito com ❤️ por [João Vitor](https://github.com/JoaoVOSantos)  
