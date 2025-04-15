@@ -16,16 +16,22 @@ Este projeto tem como objetivo praticar conceitos de:
 
 ---
 
-## 🔗 Links Importantes
+### 🖼️ Telas do Projeto
 
-- 📘 [Documentação do Projeto (PDF)](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/P1.pdf)  
-- 🖼️ [Tela Inicial](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20inicial.png)  
-- 🖼️ [Tela Area Pix](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20area%20pix.png)  
-- 🖼️ [Tela Valor da Transferência](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20valor%20transferencia.png)
-- 🖼️ [Tela Contatos para transferir](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png)
-- 🖼️ [Tela Transferindo](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png)
-- 
----
+**Tela Inicial**  
+![Tela Inicial](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20inicial.png)
+
+**Área Pix**  
+![Tela Area Pix](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20area%20pix.png)
+
+**Valor da Transferência**  
+![Tela Valor da Transferência](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20valor%20transferencia.png)
+
+**Contatos para Transferir**  
+![Tela Contatos para transferir](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20pra%20quem%20enviar.png)
+
+**Transferindo...**  
+![Tela Transferindo](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/images/tela%20transferindo.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -43,4 +49,4 @@ Sinta-se livre para abrir issues, sugerir melhorias ou enviar pull requests! Tod
 
 ## 📬 Contato
 
-Feito com ❤️ por [João Vitor](https://github.com/JoaoVOSantos)  
+Feito nas aulas de Desenvolvimento Mobile por [João Vitor](https://github.com/JoaoVOSantos)  
