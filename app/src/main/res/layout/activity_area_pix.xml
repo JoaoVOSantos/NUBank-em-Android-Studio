@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".area_pix">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Área Pix"
+        android:textSize="28sp"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Envie e receba pagamentos a qualquer hora e dia da semana, sem pagar nada por isso"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="20dp"/>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15sp"
+
+        >
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            app:icon="@drawable/pix"
+            android:backgroundTint="#d3d3d3"
+            app:iconTint="@color/black"
+            app:cornerRadius="100dp" />
+
+
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            android:layout_marginLeft="10sp"
+            app:iconTint="@color/black"
+            android:backgroundTint="#d3d3d3"
+            app:icon="@drawable/dinheiro"
+            app:cornerRadius="100dp" />
+
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            app:iconTint="@color/black"
+            android:layout_marginLeft="10sp"
+            android:backgroundTint="#d3d3d3"
+            app:icon="@drawable/cima"
+            app:cornerRadius="100dp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Transferir Programar Ler QR code"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15sp"
+
+        >
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            app:icon="@drawable/pix"
+            android:backgroundTint="#d3d3d3"
+            app:iconTint="@color/black"
+            app:cornerRadius="100dp" />
+
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            android:layout_marginLeft="10sp"
+            app:iconTint="@color/black"
+            android:backgroundTint="#d3d3d3"
+            app:icon="@drawable/dinheiro"
+            app:cornerRadius="100dp" />
+
+        <Button
+            android:layout_width="65sp"
+            android:layout_height="75sp"
+            app:iconTint="@color/black"
+            android:layout_marginLeft="10sp"
+            android:backgroundTint="#d3d3d3"
+            app:icon="@drawable/cima"
+            app:cornerRadius="100dp" />
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pix Copia       Cobrar      Depositar"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Preferências"
+        android:layout_gravity="left"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:layout_marginLeft="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registrar ou trazer chaves"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:text="Configurar Pix"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:layout_marginLeft="30dp"
+        />
+
+
+
+
+</LinearLayout>
