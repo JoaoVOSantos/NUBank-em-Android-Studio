@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ProvaIgor"
         tools:targetApi="31">
         <activity
+            android:name=".como_gostaria_de_transferir"
+            android:exported="false" />
+        <activity
             android:name=".transferindo"
             android:exported="false" />
         <activity
