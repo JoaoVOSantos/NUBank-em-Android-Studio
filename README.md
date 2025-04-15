@@ -17,10 +17,10 @@ Este projeto tem como objetivo praticar conceitos de:
 
 ## 🔗 Links Importantes
 
-- 📘 [Documentação do Projeto (PDF)](../main/DocumentacaoProjeto.pdf)  
-- 🖼️ [Tela Inicial](../main/images/tela_inicial.png)  
-- 🖼️ [Tela do Cartão](../main/images/tela_cartao.png)  
-- 🖼️ [Tela de Pagamentos](../main/images/tela_pagamentos.png)
+- 📘 [Documentação do Projeto (PDF)](../p1.pdf)  
+- 🖼️ [Tela Inicial](..images/tela_inicial.png)  
+- 🖼️ [Tela do Cartão](../images/tela_cartao.png)  
+- 🖼️ [Tela de Pagamentos](../images/tela_pagamentos.png)
 
 ---
 
