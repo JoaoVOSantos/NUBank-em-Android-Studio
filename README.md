@@ -17,7 +17,7 @@ Este projeto tem como objetivo praticar conceitos de:
 
 ## 🔗 Links Importantes
 
-- 📘 [Documentação do Projeto (PDF)](../p1.pdf)  
+- 📘 [Documentação do Projeto (PDF)](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/P1.pdf)  
 - 🖼️ [Tela Inicial](..images/tela_inicial.png)  
 - 🖼️ [Tela do Cartão](../images/tela_cartao.png)  
 - 🖼️ [Tela de Pagamentos](../images/tela_pagamentos.png)
