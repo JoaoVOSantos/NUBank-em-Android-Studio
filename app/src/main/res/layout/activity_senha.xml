@@ -30,36 +30,37 @@
         <EditText
             android:layout_marginTop="30dp"
             android:layout_marginLeft="50dp"
-            android:layout_width="75dp"
-            android:layout_height="100dp"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
             android:textSize="30sp"
             android:backgroundTint="#d3d3d3"
             />
         <EditText
             android:layout_marginTop="30dp"
-            android:layout_width="75dp"
-            android:layout_height="100dp"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
             android:textSize="30sp"
             android:backgroundTint="#d3d3d3"
             />
         <EditText
             android:layout_marginTop="30dp"
-            android:layout_width="75dp"
-            android:layout_height="100dp"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
             android:textSize="30sp"
             android:backgroundTint="#d3d3d3"
             />
         <EditText
             android:layout_marginTop="30dp"
-            android:layout_width="75dp"
-            android:layout_height="100dp"
-            android:textSize="30sp"
+            android:layout_width="50dp"
+            android:layout_height="75dp"
+            android:textSize="75sp"
             android:backgroundTint="#d3d3d3"
             />
 
     </LinearLayout>
 
     <Button
+        android:id="@+id/btnSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
