@@ -33,6 +33,7 @@
             android:layout_height="100dp"
             android:textSize="75sp"
             android:textAlignment="center"
+            android:maxLength="1"
             android:inputType="numberPassword"
             android:backgroundTint="#d3d3d3" />
         <EditText
@@ -40,6 +41,7 @@
             android:layout_height="100dp"
             android:textSize="75sp"
             android:textAlignment="center"
+            android:maxLength="1"
             android:inputType="numberPassword"
             android:backgroundTint="#d3d3d3" />
         <EditText
@@ -47,6 +49,7 @@
             android:layout_height="100dp"
             android:textSize="75sp"
             android:textAlignment="center"
+            android:maxLength="1"
             android:inputType="numberPassword"
             android:backgroundTint="#d3d3d3" />
         <EditText
@@ -54,6 +57,7 @@
             android:layout_height="100dp"
             android:textSize="75sp"
             android:textAlignment="center"
+            android:maxLength="1"
             android:inputType="numberPassword"
             android:backgroundTint="#d3d3d3" />
 
