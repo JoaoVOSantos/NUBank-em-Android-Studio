@@ -2,8 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <item android:title="Ação 1" app:showAsAction="ifRoom" android:icon="@drawable/olho_branco"/>
     <item android:title="Ação 1" app:showAsAction="ifRoom" android:icon="@drawable/adicionar"/>
-    <item android:title="Ação 2" app:showAsAction="ifRoom" android:icon="@drawable/conta"/>
-    <item android:title="Ação 3" app:showAsAction="ifRoom" android:icon="@drawable/olho_branco"/>
+    <item android:title="Ação 2" app:showAsAction="ifRoom" android:icon="@drawable/conta" app:iconTint="@color/white"/>
+
 
 </menu>
