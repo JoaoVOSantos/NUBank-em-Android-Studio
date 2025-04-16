@@ -15,7 +15,7 @@ class transferencia_realizada : AppCompatActivity() {
         setContentView(R.layout.activity_transferencia_realizada)
 
 
-        val botaoProximaTela : Button = findViewById(R.id.btnAreaTransferencia)
+        val botaoProximaTela : Button = findViewById(R.id.btnTransferenciaRealizada)
         botaoProximaTela.setOnClickListener{
             val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)

@@ -15,7 +15,7 @@ class senha : AppCompatActivity() {
         setContentView(R.layout.activity_senha)
 
 
-        val botaoProximaTela : Button = findViewById(R.id.btnSenha)
+        val botaoProximaTela : Button = findViewById(R.id.btnConfirmarSenha)
         botaoProximaTela.setOnClickListener{
             val intent = Intent(this,transferencia_realizada::class.java)
             startActivity(intent)
