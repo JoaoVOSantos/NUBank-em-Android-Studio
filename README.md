@@ -2,7 +2,8 @@
 
 Bem-vindo ao repositório do projeto **NUBank em Android Studio**! Este projeto é uma simulação da interface do aplicativo do NUBank, desenvolvido para fins educacionais e práticos no uso do Android Studio com Java/Kotlin.
 
-Inspirado no Layout:  📘 [Documentação do Projeto (PDF)](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/P1.pdf)
+Inspirado no Layout:  📘 [PDF do Projeto](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/P1.pdf)
+Aplicativo para download:  📘 [Download](https://github.com/JoaoVOSantos/NUBank-em-Android-Studio/blob/main/NUBANKAPP.apk)
 ---
 
 ## 📄 Sobre o Projeto
