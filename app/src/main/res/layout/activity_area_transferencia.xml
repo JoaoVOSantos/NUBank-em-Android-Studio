@@ -38,16 +38,24 @@
         android:textSize="26sp"
         android:hint="R$ 0,00"/>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end|bottom"
+        >
+
     <Button
-        android:layout_width="65sp"
-        android:layout_height="75sp"
-        app:icon="@drawable/baixo"
+        android:id="@+id/btnAreaTransferencia"
+        android:layout_width="65dp"
+        android:layout_height="75dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="20dp"
         android:backgroundTint="#d3d3d3"
-        app:iconTint="@color/black"
         app:cornerRadius="100dp"
-        android:layout_marginTop="1290px"
-        android:layout_marginRight="10dp"
-        android:layout_gravity="right"/>
+        app:icon="@drawable/baixo"
+        app:iconTint="@color/black"
+        />
+    </LinearLayout>
 
 
 </LinearLayout>

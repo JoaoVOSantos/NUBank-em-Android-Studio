@@ -34,6 +34,7 @@
 
         >
         <Button
+            android:id="@+id/btnTransferir"
             android:layout_width="65sp"
             android:layout_height="75sp"
             app:icon="@drawable/pix"
