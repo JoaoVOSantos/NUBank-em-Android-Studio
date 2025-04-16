@@ -21,62 +21,108 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Envie e receba pagamentos a qualquer hora e dia da semana, sem pagar nada por isso"
-        android:textSize="20sp"
+        android:textSize="18sp"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="20dp"/>
 
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
+        android:gravity="center"
         android:layout_marginTop="15sp"
 
         >
-        <Button
-            android:id="@+id/btnTransferir"
-            android:layout_width="65sp"
-            android:layout_height="75sp"
-            app:icon="@drawable/pix"
-            android:backgroundTint="#d3d3d3"
-            app:iconTint="@color/black"
-            app:cornerRadius="100dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_margin="5dp"
+            >
+            <Button
+                android:id="@+id/btnTransferir"
+                android:layout_width="65sp"
+                android:layout_height="75sp"
+                app:icon="@drawable/pix"
+                android:backgroundTint="#d3d3d3"
+                app:iconTint="@color/black"
+                app:cornerRadius="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tranferir"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
 
 
-        <Button
-            android:layout_width="65sp"
-            android:layout_height="75sp"
-            android:layout_marginLeft="10sp"
-            app:iconTint="@color/black"
-            android:backgroundTint="#d3d3d3"
-            app:icon="@drawable/dinheiro"
-            app:cornerRadius="100dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            >
+            <Button
+                android:layout_width="65sp"
+                android:layout_height="75sp"
+                app:icon="@drawable/dinheiro"
+                android:backgroundTint="#d3d3d3"
+                app:iconTint="@color/black"
+                app:cornerRadius="100dp" />
 
-        <Button
-            android:layout_width="65sp"
-            android:layout_height="75sp"
-            app:iconTint="@color/black"
-            android:layout_marginLeft="10sp"
-            android:backgroundTint="#d3d3d3"
-            app:icon="@drawable/cima"
-            app:cornerRadius="100dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Programar"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            >
+            <Button
+                android:layout_width="65sp"
+                android:layout_height="75sp"
+                app:icon="@drawable/dinheiro"
+                android:backgroundTint="#d3d3d3"
+                app:iconTint="@color/black"
+                app:cornerRadius="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ler QR Code"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
 
     </LinearLayout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Transferir Programar Ler QR code"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"/>
+    <!-- Botoes da parte debaixo -->
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
+        android:gravity="center"
         android:layout_marginTop="15sp"
 
         >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            >
         <Button
             android:layout_width="65sp"
             android:layout_height="75sp"
@@ -85,31 +131,60 @@
             app:iconTint="@color/black"
             app:cornerRadius="100dp" />
 
-        <Button
-            android:layout_width="65sp"
-            android:layout_height="75sp"
-            android:layout_marginLeft="10sp"
-            app:iconTint="@color/black"
-            android:backgroundTint="#d3d3d3"
-            app:icon="@drawable/dinheiro"
-            app:cornerRadius="100dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pix Copia"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"/>
+        </LinearLayout>
 
-        <Button
-            android:layout_width="65sp"
-            android:layout_height="75sp"
-            app:iconTint="@color/black"
-            android:layout_marginLeft="10sp"
-            android:backgroundTint="#d3d3d3"
-            app:icon="@drawable/cima"
-            app:cornerRadius="100dp" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            >
+            <Button
+                android:layout_width="65sp"
+                android:layout_height="75sp"
+                app:icon="@drawable/dinheiro"
+                android:backgroundTint="#d3d3d3"
+                app:iconTint="@color/black"
+                app:cornerRadius="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cobrar"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_margin="5dp"
+            >
+            <Button
+                android:layout_width="65sp"
+                android:layout_height="75sp"
+                app:icon="@drawable/baixo"
+                android:backgroundTint="#d3d3d3"
+                app:iconTint="@color/black"
+                app:cornerRadius="100dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Depositar"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"/>
+        </LinearLayout>
 
     </LinearLayout>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Pix Copia       Cobrar      Depositar"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"/>
 
     <TextView
         android:layout_width="wrap_content"

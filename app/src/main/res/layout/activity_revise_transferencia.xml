@@ -43,17 +43,23 @@
                 >
 
                 <TextView
-                    android:layout_width="300dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:text="Quando vai ser"
                     android:textSize="18sp" />
 
+                <!-- chat gpt -->
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
                 <Button
                     android:layout_width="wrap_content"
-                    android:layout_height="45dp"
-                    android:layout_marginRight="15dp"
+                    android:layout_height="wrap_content"
                     android:backgroundTint="#d3d3d3"
+                    android:layout_marginRight="10dp"
                     android:text="Alterar"
                     android:textColor="@color/black"
                     app:cornerRadius="100dp" />
@@ -86,18 +92,24 @@
             >
 
             <TextView
-                android:layout_width="300dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:text="Como"
                 android:textSize="18sp" />
 
+            <!-- chat gpt -->
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="45dp"
-                android:layout_marginRight="15dp"
+                android:layout_height="wrap_content"
                 android:backgroundTint="#d3d3d3"
                 android:text="Alterar"
+                android:layout_marginRight="10dp"
                 android:textColor="@color/black"
                 app:cornerRadius="100dp" />
 
@@ -129,19 +141,25 @@
             >
 
             <TextView
-                android:layout_width="300dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:text="Transferindo com"
                 android:textSize="18sp" />
 
+            <!-- chat gpt -->
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="45dp"
-                android:layout_marginRight="15dp"
+                android:layout_height="wrap_content"
                 android:backgroundTint="#d3d3d3"
                 android:text="Alterar"
                 android:textColor="@color/black"
+                android:layout_marginRight="10dp"
                 app:cornerRadius="100dp" />
 
         </LinearLayout>
@@ -169,10 +187,12 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
             >
 
             <TextView
-                android:layout_width="280dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
                 android:text="R$ 689,56"
@@ -180,14 +200,22 @@
                 android:textStyle="bold"
                 />
 
+
+            <!-- chat gpt -->
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+
             <Button
                 android:id="@+id/btnReviseTransferencia"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="5dp"
                 android:backgroundTint="#9400d3"
                 android:text="Transferir"
                 android:textColor="@color/white"
+                android:layout_marginRight="10dp"
                 app:cornerRadius="100dp" />
 
         </LinearLayout>
