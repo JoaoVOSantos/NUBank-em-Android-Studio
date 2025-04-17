@@ -20,6 +20,7 @@
         android:layout_marginLeft="15dp"/>
 
     <TextView
+        android:id="@+id/txtValorTransferenciaRoxo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="R$689,56?"

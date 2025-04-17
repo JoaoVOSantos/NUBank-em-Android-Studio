@@ -11,6 +11,7 @@
     android:orientation="vertical"
     >
     <TextView
+        android:id="@+id/txtComoGostariaTransferencia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Como você gostaria de transferir R$ 689,56?"
