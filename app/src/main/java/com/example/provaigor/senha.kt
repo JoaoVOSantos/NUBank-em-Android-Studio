@@ -15,9 +15,12 @@ class senha : AppCompatActivity() {
         setContentView(R.layout.activity_senha)
 
 
+        val valorTransferencia = intent.getStringExtra("ValorTransferencia")
+
         val botaoProximaTela : Button = findViewById(R.id.btnConfirmarSenha)
         botaoProximaTela.setOnClickListener{
             val intent = Intent(this,transferencia_realizada::class.java)
+            intent.putExtra("ValorTransferencia", valorTransferencia.toString())
             startActivity(intent)
         }
     }
