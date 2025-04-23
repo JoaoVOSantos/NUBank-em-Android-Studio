@@ -94,7 +94,7 @@
             <Button
                 android:layout_width="65sp"
                 android:layout_height="75sp"
-                app:icon="@drawable/dinheiro"
+                app:icon="@drawable/olho_branco"
                 android:backgroundTint="#d3d3d3"
                 app:iconTint="@color/black"
                 app:cornerRadius="100dp" />
@@ -151,7 +151,7 @@
             <Button
                 android:layout_width="65sp"
                 android:layout_height="75sp"
-                app:icon="@drawable/dinheiro"
+                app:icon="@drawable/adicionar"
                 android:backgroundTint="#d3d3d3"
                 app:iconTint="@color/black"
                 app:cornerRadius="100dp" />
